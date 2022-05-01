@@ -1,0 +1,27 @@
+<annotation>
+  <folder></folder>
+  <filename>gesture/train/image/2545.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>3456</width>
+    <height>4608</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Thumb_up</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>197.18</xmin>
+      <ymin>621.6</ymin>
+      <xmax>2698.23</xmax>
+      <ymax>4047.28</ymax>
+    </bndbox>
+  </object>
+</annotation>

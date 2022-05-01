@@ -1,0 +1,15 @@
+<annotation>
+  <folder></folder>
+  <filename>gesture/train/image/2676.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>3024</width>
+    <height>4032</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>

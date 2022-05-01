@@ -1,0 +1,27 @@
+<annotation>
+  <folder></folder>
+  <filename>gesture/train/image/490.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>2976</width>
+    <height>3968</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Four</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>583.2</xmin>
+      <ymin>1288.11</ymin>
+      <xmax>2078.4</xmax>
+      <ymax>3690.3999999999996</ymax>
+    </bndbox>
+  </object>
+</annotation>

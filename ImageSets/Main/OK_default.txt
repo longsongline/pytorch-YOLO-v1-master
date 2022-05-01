@@ -1,0 +1,2 @@
+gesture/train/image/5465 -1
+gesture/train/image/2621 -1
